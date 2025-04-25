@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>My name is Sahil Konjarla, I'm a software engineer and researcher focused on building<br>systems that blend symbolic reasoning with the power of modern LLMs. As an M.S. student <br>in Computer Science at UC Santa Cruz, I specialize in neuro-symbolic AI, explainability, <br>and intelligent agents. I’ve led technical teams in Formula SAE EV competitions, <br>worked on AI-powered developer tools, and published research on topics from <br>hallucination detection to hyperspectral image reconstruction. Whether optimizing <br>backend systems or designing multi-agent workflows, I aim to build impactful,<br> well-reasoned technology.
+## Hi there 👋<br><br>My name is Sahil Konjarla, I'm a software engineer and researcher focused on building<br>systems that blend symbolic reasoning with the power of modern LLMs. As an M.S. student in Computer Science at UC Santa Cruz, I specialize in neuro-symbolic AI, explainability, <br>and intelligent agents. I’ve led technical teams in Formula SAE EV competitions, <br>worked on AI-powered developer tools, and published research on topics from <br>hallucination detection to hyperspectral image reconstruction. Whether optimizing <br>backend systems or designing multi-agent workflows, I aim to build impactful,<br> well-reasoned technology.
 
 
 ## 🌐 Socials:
