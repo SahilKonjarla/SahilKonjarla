@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-## I'm a software engineer and researcher focused on building systems that blend symbolic reasoning with the power of modern LLMs. As an M.S. student in Computer Science at UC Santa Cruz, I specialize in neuro-symbolic AI, explainability, and intelligent agents.
-I’ve led technical teams in Formula SAE EV competitions, worked on AI-powered developer tools, and published research on topics from hallucination detection to hyperspectral image reconstruction. Whether optimizing backend systems or designing multi-agent workflows, I aim to build impactful, well-reasoned technology.
+## I'm a software engineer and researcher focused on building systems that blend symbolic reasoning with the power of modern LLMs. As an M.S. student in Computer Science at UC Santa Cruz, I specialize in neuro-symbolic AI, explainability, and intelligent agents.<br><br>I’ve led technical teams in Formula SAE EV competitions, worked on AI-powered developer tools, and published research on topics from hallucination detection to hyperspectral image reconstruction. Whether optimizing backend systems or designing multi-agent workflows, I aim to build impactful, well-reasoned technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilkonjarla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahil.konjarla@gmail.com) 
